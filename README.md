@@ -1,5 +1,5 @@
 
-# MAKAUT_CA4_Crack
+# MAKAUT CA4 Crack
 
 > **Browser Extension disguised as "Google Docs Quick Create 2.O" to bypass invasive restrictions on the MAKAUT CA4 Exam Portal.**
 
@@ -32,21 +32,11 @@
 
 ### Step 1: Download the Extension
 
-<video width="100%" autoplay loop muted controls>
-  <source src="download.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-
-🔽 [Download `MAKAUT_CA4_Crack` Source Code](download.webm)
+🔽 [Download `MAKAUT_CA4_Crack` Source Code](https://github.com/rax-2/MAKAUT_CA4_Crack/archive/refs/heads/main.zip)
 
 ---
 
 ### Step 2: Install via Developer Mode
-
-<video width="100%" autoplay loop muted controls>
-  <source src="./install.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 📦 Open `chrome://extensions/`  
 🧩 Enable **Developer Mode**  
@@ -55,11 +45,6 @@
 ---
 
 ### Step 3: Confirm Successful Installation
-
-<video width="100%" autoplay loop muted controls>
-  <source src="./installed.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 🎉 Extension will appear as: **Google Docs Quick Create 2.O**
 
