@@ -44,7 +44,7 @@
 ### Step 2: Install via Developer Mode
 
 <video width="100%" autoplay loop muted controls>
-  <source src="install.webm" type="video/webm">
+  <source src="./install.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
@@ -57,7 +57,7 @@
 ### Step 3: Confirm Successful Installation
 
 <video width="100%" autoplay loop muted controls>
-  <source src="installed.webm" type="video/webm">
+  <source src="./installed.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
